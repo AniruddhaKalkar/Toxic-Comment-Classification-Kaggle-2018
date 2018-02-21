@@ -1,0 +1,8 @@
+TOXIC COMMENT CLASSIFICATION
+Classify text into 6 Categories:
+	a.)Toxic
+	b.)Severe Toxic
+	c.)Obscene
+	d.)Threat
+	e.)Insult
+	f.)Identity Hate
